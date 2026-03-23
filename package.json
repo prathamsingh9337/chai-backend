@@ -1,7 +1,7 @@
 {
   "name": "chai-backend",
   "version": "1.0.0",
-  "description": "a backend at chai aur code channel - youtube",
+  "description": "a backend code channel",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "backend",
     "chai"
   ],
-  "author": "Hitesh Choudhary",
+  "author": "Pratham Singh",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1",
